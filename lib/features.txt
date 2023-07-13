@@ -1,0 +1,11 @@
+> login screen is made
+> email & passsword to be entered which is stored on firebase authentication service
+> after succesfull login the user is redirected to post screen
+> then logout button is provided which redirects to the login screen
+> once logged in then when the app opens next time, it is already logged in
+> circular animations provided on clicking login button or signup button
+> verification through mobile number is also added
+> reference playlist https://www.youtube.com/playlist?list=PLFyjjoCMAPtxS6Cx1XSjCfxOxHQ4_e0sL
+> command for SHA key: keytool -list -v -keystore "C:\Users\NITRO\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+> firebase database used
+> post screen to add post
